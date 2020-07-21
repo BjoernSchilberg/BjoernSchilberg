@@ -1,4 +1,4 @@
-![image](https://github.com/BjoernSchilberg/BjoernSchilberg/blob/master/fractal.png)
+![image](https://github.com/BjoernSchilberg/BjoernSchilberg/blob/master/fractal.gif)
 
 <!--
 **BjoernSchilberg/BjoernSchilberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
